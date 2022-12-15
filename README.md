@@ -1,6 +1,8 @@
 # CORS Proxy Server
 
-This is a simple proxy server that allows you to make cross-origin requests to any URL. It is intended to be used as a development tool, and should not be used in production.
+A simple CORS proxy server built in PHP that allows you to make cross-origin requests to any URL.  
+
+> It is intended to be used as a development tool, and should not be used in production.
 
 ## Instalation
 
