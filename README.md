@@ -20,7 +20,7 @@ Then, you can start the server with:
 php -S localhost:8080
 ```
 
-## Host application
+## Host the application
 
 You just need to copy all contents of this repository to your server (including the vendor folder).  
 
